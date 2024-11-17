@@ -19,5 +19,5 @@ function NoTransactions() {
     </div>
   );
 }
-
+// No Transations
 export default NoTransactions;
