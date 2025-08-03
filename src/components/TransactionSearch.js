@@ -196,5 +196,5 @@ const TransactionSearch = ({
     </div>
   );
 };
-// Transation Search 
+// Transaction Search 
 export default TransactionSearch;
