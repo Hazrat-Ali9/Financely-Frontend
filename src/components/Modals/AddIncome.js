@@ -91,4 +91,4 @@ function AddIncomeModal({
 
 export default AddIncomeModal;
 
-// add income model 
+// Add Income 
