@@ -1,6 +1,6 @@
 import React from "react";
 import { Card, Row } from "antd";
-// cards js
+// Cards js
 function Cards({
   currentBalance,
   income,
