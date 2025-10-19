@@ -1,5 +1,6 @@
 import React from "react";
 import transactions from "../assets/transactions.svg";
+// No Transations
 function NoTransactions() {
   return (
     <div
@@ -19,5 +20,5 @@ function NoTransactions() {
     </div>
   );
 }
-// No Transations
+
 export default NoTransactions;
